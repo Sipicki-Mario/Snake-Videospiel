@@ -78,4 +78,5 @@ Fehlerbehebung (Windows-spezifische Probleme): Wenn Sie Windows verwenden und au
 Vielen Dank im Voraus für das Lesen und Ansehen meiner Projekte!
 
 Mit freundlichen Grüßen
+
 Mario Sipicki
